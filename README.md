@@ -6,5 +6,8 @@ Projects for Linear Algebra
 1:  Using Google Co-Laboratory to introduce the idea of solving systems of equations with code:
 https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Math_242_solve_systems_using_computation_and_rref.ipynb
 
-2:  More to come....
+2:  The Ski Hill Example:  Modeling future behavior using transition matrices.  
+https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+
+3:  More to come....
 
