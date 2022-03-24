@@ -15,5 +15,8 @@ https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Ma
 4:  Sports Teams Rankings:  Using game data to rank the strength of teams using linear algebra.
 https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Sports_Teams_Rankings.ipynb
 
-5:  More to come....
+5:  Gram-Schmidt Process using vectors.  Students create this from scratch.
+
+6:  Gram-Schmidt Process with Function Spaces
+https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Gram_Schmidt_Process_with_Function_Spaces.ipynb
 
