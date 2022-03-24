@@ -22,3 +22,4 @@ https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Sp
 https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Gram_Schmidt_Process_with_Poynomial_Function_Spaces.ipynb
 
   * Periodic Function Spaces:
+https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Gram_Schmidt_Process_with_Periodic_Function_Spaces.ipynb
