@@ -23,3 +23,6 @@ https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Gr
 
   * Periodic Function Spaces:
 https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Gram_Schmidt_Process_with_Periodic_Function_Spaces.ipynb
+
+7: The Impact of Singular Values (e.g. eigenvalues for non-square matrices)
+https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Explore_Impact_of_Eigenvalues_for_non_square_matrices.ipynb
