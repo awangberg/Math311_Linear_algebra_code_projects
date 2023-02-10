@@ -1,13 +1,3 @@
-# This is a section
-
-1:  Project 1:  Using Colab to solve systems of equations with code
-https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/Math_242_solve_systems_using_computation_and_rref.ipynb
-
-2:  Project 2:  Predicted the number of skiers on ski slopes using Markov Chains and Transition Matrices.
-https://github.com/awangberg/Math242_Linear_algebra_code_projects/blob/master/The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
-
-
-
 This repository contains projects for use in Math 242 Linear Algebra. It is used with Google Colaboratory, and is intended to help students learn how to do linear algebra using code.
 
 # Math242_Linear_algebra
