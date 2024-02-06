@@ -1,7 +1,7 @@
 This repository contains projects for use in Math 311 Linear Algebra. It is used with Google Colaboratory, and is intended to help students learn how to do linear algebra using code.
 
-//Math 311 Students:  Add your own repository to this Google Sheet:
-//https://docs.google.com/spreadsheets/d/1QRmwjRniqgN9Y_NwhZiBpQ0zcWlETA6pCfsIpBDa-CU/edit?usp=sharing
+Math 311 Students:  Add your own repository to this Google Sheet:
+<!--- https://docs.google.com/spreadsheets/d/1QRmwjRniqgN9Y_NwhZiBpQ0zcWlETA6pCfsIpBDa-CU/edit?usp=sharing -->
 
 
 # Math311_Linear_algebra
