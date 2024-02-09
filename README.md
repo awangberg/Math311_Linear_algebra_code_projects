@@ -13,6 +13,8 @@ https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/Ma
 2:  The Ski Hill Example:  Modeling future behavior using transition matrices.  
 https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
 
+https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/Function%20Spaces%20and%20Gram%20Schmidt.ipynb
+
 3:  Secret Number:  Decoding a secret polynomial from data points using linear algebra.
 https://github.com/awangberg/Math311_Linear_algebra_code_projects/blob/master/Math_311_secret_number.ipynb
 
